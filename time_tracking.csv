@@ -1,0 +1,9 @@
+Date,Developer,Task_Description,Time_Spent_Hours
+2026-06-15,Ira,Repo setup and abstract BSTInterface class,1.5
+2026-06-16,Ira,Implementation of PBT rebuild logic,2.0
+2026-06-17,Lera,AVL Tree rotations (Left/Right) and balance factor,3.5
+2026-06-18,Anya,Splay Tree root-lifting heuristic implementation,2.5
+2026-06-19,Lera,Red-Black Tree insertion rules and coloring,4.0
+2026-06-20,Anya,Benchmarking engine with std::chrono,2.0
+2026-06-21,Lera,Debugging RBT memory leaks on 5000 nodes,1.5
+2026-06-22,All,Final merge run experiments and slides preparation,2.0
