@@ -5,9 +5,9 @@
 Джерела
 
 ## Команда
-* **Іра** — Архітектура, PBT, Benchmarking
-* **Лера** — AVL Tree, Splay Tree
-* **Аня** — Red-Black Tree (RBT)
+* **Бухонська Ірина** — Архітектура, PBT, Benchmarking
+* **Любиш Валерія** — AVL Tree, Splay Tree
+* **Ґудзь Анна** — Red-Black Tree (RBT)
 
 ## Джерела і інструмнети
 * **LLM:** Базовий каркас C++ коду, абстрактний клас `BSTInterface` та система заміру часу для бенчмаркінгу були згенеровані за допомогою **Google Gemini**.
